@@ -14,5 +14,12 @@ namespace LambdaDemo281Batch
             Console.WriteLine("\nDisplaying Top2 Records Based On Age:");
             Program.DisplayPersonData(top2Records);
         }
+
+        public static void RetriveTeengeRecords(List<Person> list)
+        {
+            List<Person> TeenageRecords = list.Where(a => a.Age >= 13 && a.Age <= 18).ToList();
+            Console.WriteLine("\nRetrive Teenge Records");
+            Program.DisplayPersonData(TeenageRecords);
+        }
     }
 }
