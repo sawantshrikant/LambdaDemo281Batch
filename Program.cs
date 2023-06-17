@@ -19,6 +19,8 @@
 
             };
             DisplayPersonData(list);
+            PersonDataManagement.RetriveTop2RecordsBasedOnLessAge(list);
+            Console.ReadLine();
         }
 
         public static void DisplayPersonData(List<Person> list)
@@ -31,4 +33,4 @@
 
        
     }
-}
+} 
