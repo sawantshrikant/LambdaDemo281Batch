@@ -1,0 +1,15 @@
+D:\Batch281\LambdaDemo281Batch\LambdaDemo281Batch\bin\Debug\net7.0\LambdaDemo281Batch.exe
+D:\Batch281\LambdaDemo281Batch\LambdaDemo281Batch\bin\Debug\net7.0\LambdaDemo281Batch.deps.json
+D:\Batch281\LambdaDemo281Batch\LambdaDemo281Batch\bin\Debug\net7.0\LambdaDemo281Batch.runtimeconfig.json
+D:\Batch281\LambdaDemo281Batch\LambdaDemo281Batch\bin\Debug\net7.0\LambdaDemo281Batch.dll
+D:\Batch281\LambdaDemo281Batch\LambdaDemo281Batch\bin\Debug\net7.0\LambdaDemo281Batch.pdb
+D:\Batch281\LambdaDemo281Batch\LambdaDemo281Batch\obj\Debug\net7.0\LambdaDemo281Batch.csproj.AssemblyReference.cache
+D:\Batch281\LambdaDemo281Batch\LambdaDemo281Batch\obj\Debug\net7.0\LambdaDemo281Batch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch281\LambdaDemo281Batch\LambdaDemo281Batch\obj\Debug\net7.0\LambdaDemo281Batch.AssemblyInfoInputs.cache
+D:\Batch281\LambdaDemo281Batch\LambdaDemo281Batch\obj\Debug\net7.0\LambdaDemo281Batch.AssemblyInfo.cs
+D:\Batch281\LambdaDemo281Batch\LambdaDemo281Batch\obj\Debug\net7.0\LambdaDemo281Batch.csproj.CoreCompileInputs.cache
+D:\Batch281\LambdaDemo281Batch\LambdaDemo281Batch\obj\Debug\net7.0\LambdaDemo281Batch.dll
+D:\Batch281\LambdaDemo281Batch\LambdaDemo281Batch\obj\Debug\net7.0\refint\LambdaDemo281Batch.dll
+D:\Batch281\LambdaDemo281Batch\LambdaDemo281Batch\obj\Debug\net7.0\LambdaDemo281Batch.pdb
+D:\Batch281\LambdaDemo281Batch\LambdaDemo281Batch\obj\Debug\net7.0\LambdaDemo281Batch.genruntimeconfig.cache
+D:\Batch281\LambdaDemo281Batch\LambdaDemo281Batch\obj\Debug\net7.0\ref\LambdaDemo281Batch.dll

@@ -19,7 +19,8 @@
 
             };
             DisplayPersonData(list);
-            PersonDataManagement.RetriveTop2RecordsBasedOnLessAge(list);
+            //PersonDataManagement.RetriveTop2RecordsBasedOnLessAge(list);
+            PersonDataManagement.RetriveTeengeRecords(list);
             Console.ReadLine();
         }
 
